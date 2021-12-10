@@ -1,4 +1,4 @@
-# Modified Version Of [Media Search bot](https://github.com/Jinn-of-telegram/Media-Search-bot-v2)
+# Modified Version Of [DailyUpdates](https://github.com/Jinn-of-telegram/Media-Search-bot-v2)
 
 ## Example Bot [Imdb Bot](https://t.me/Ma_autofilterbot)
 
